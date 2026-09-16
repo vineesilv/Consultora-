@@ -1,4 +1,4 @@
-# Aline Contábil — Landing Page
+# Nathalha Santos Contabilidade — Landing Page
 
 Landing page estática (HTML + CSS + JS puro, sem build) para contadora, com paleta azul escuro + dourado.
 
